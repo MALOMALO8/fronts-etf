@@ -1,0 +1,21 @@
+{
+  "name": "FRONTS ETF - Gestion des fronts chantier ferroviaires",
+  "short_name": "FRONTS ETF",
+  "description": "Application de gestion centralisée des fronts chantier ferroviaires",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003DA5",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": []
+}
